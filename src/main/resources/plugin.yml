@@ -1,0 +1,10 @@
+name: Directo
+version: ${project.version}
+main: com.hotmail.rodytellezreyes.directo.Directo
+authors: [Rodolfo2020]
+description: Avisa a todo tu servidor de los directos activos en el servidor
+commands:
+  directo:
+    description: Avisa que estas en directo.
+  directos:
+    description: Muestra los directos activos.

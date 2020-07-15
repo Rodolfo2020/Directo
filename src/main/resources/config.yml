@@ -1,0 +1,8 @@
+messages:
+  prefix: "&9&lDirectos "
+  message-structure: "&f{player} esta en directo! {linkmessage}"
+  link-message: "&d[Click para ver el directo]"
+  #In actionbar-message you can use {player} to refer to the player who receive the message
+  #or {playeryt} to refer a player who is in direct
+  actionbar-message: "&e{playeryt} esta en directo!"
+  no-perms: "&cNo tienes permisos!"
